@@ -10,3 +10,4 @@ officer responsible for each subsector is provided with an android application t
 internet and each user mobile MAC and smart glasses MAC address are cross referenced and uploaded to cloud. The superior officer can assign the location of each police personnel 
 through the application and are received by the user through smart glasses and SMS. The video recording of the glasses gets initiated when, there is a spike in heart rate of police, 
 sudden noise or when the police personnel runs or falls down which is detected by the gyroscope and accelerometer sensor. The total weight of the prototype is calculated to be 233 grams. The load current of the glasses is 1.2 amps and the battery life of the prototype is calculated to be approximately 2.22 hours.
+<img width="524" alt="CAD design" src="https://github.com/OptiCops2023/AIoT-Smart-EyeWear-for-Law-Enforcement/assets/130657253/8fcc9e8e-f9e5-4ad7-9d51-f59895b5a4a5">
