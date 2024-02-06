@@ -26,10 +26,13 @@ Benefits :
 •	The AIoT smart glasses can contribute to a reduction in the use of force and instances of corruption. By providing real-time monitoring and video recording capabilities, the smart 
 glasses promote transparency, accountability, and responsible decision-making among law enforcement personnel. This can lead to improved public trust and confidence in the justice 
 system.
+
 •	The integration of a camera and microphone in the smart glasses allows for seamless and efficient evidence collection and suspect identification using face recognition by law 
 enforcement officers. This technology enables them to capture crucial moments and events in real-time, improving the accuracy and reliability of collected evidence.
+
 •	The AIoT smart glasses incorporate sensors and IoT technology to monitor the health and safety of police personnel during duty. The data collected by these sensors, such as heart 
 rate, temperature, and motion, can be transmitted to a mobile application, enabling real-time monitoring and early detection of any potential health issues or safety risks.
+
 
 
 <img width="524" alt="CAD design" src="https://github.com/OptiCops2023/AIoT-Smart-EyeWear-for-Law-Enforcement/assets/130657253/8fcc9e8e-f9e5-4ad7-9d51-f59895b5a4a5">
