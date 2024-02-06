@@ -1,5 +1,6 @@
 # AIoT-Smart-EyeWear-for-Law-Enforcement
 Background :
+
 Body cameras have become an important tool for law enforcement agencies in recent years. These cameras are typically worn on the chest or shoulder of an officer and can capture video
 and audio recordings of interactions with civilians. However, these devices only record videos and audio and sometimes they are blocked by the hand movement of the police officers. 
 A randomized controlled trial conducted by the Rialto Police Department in California found that the use of body-worn cameras led to a 59% reduction in use-of-force incidents and an 
@@ -7,6 +8,7 @@ A randomized controlled trial conducted by the Rialto Police Department in Calif
 in the odds of a case being prosecuted in court. 
 
 Solution :
+
 The proposed solution is a pair of AIoT smart glasses whose lens are made of clear polycarbonate of 2mm thickness which is customized to be scratch proof. The body of the device is 3D 
 printed using Acrylonitrile Butadiene Styrene (ABS) which has high impact resistance and light weight compared to other materials in market. The temple of the smart glasses measure 82mm 
 in length, 42mm in width and 26mm in height. The device is provided with an elastic strap connected to the temples which is to be worn around the head. An SBC (Raspberry pi Zero 2W) is 
@@ -20,6 +22,7 @@ through the application and are received by the user through smart glasses and S
 sudden noise or when the police personnel runs or falls down which is detected by the gyroscope and accelerometer sensor. The total weight of the prototype is calculated to be 233 grams. The load current of the glasses is 1.2 amps and the battery life of the prototype is calculated to be approximately 2.22 hours.
 
 Benefits :
+
 •	The AIoT smart glasses can contribute to a reduction in the use of force and instances of corruption. By providing real-time monitoring and video recording capabilities, the smart 
 glasses promote transparency, accountability, and responsible decision-making among law enforcement personnel. This can lead to improved public trust and confidence in the justice 
 system.
